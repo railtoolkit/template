@@ -10,7 +10,15 @@ Categories: Added, Changed, Deprecated, Removed, Fixed, and Security.
 
 ### Added
 
-  Message
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
 
 ## Version [0.1.0] - ISO-DATE
 

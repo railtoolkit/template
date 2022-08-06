@@ -12,10 +12,6 @@ TODO
 
 TODO
 
-# Contributing
-
-TODO
-
 ------------
 
 # License
