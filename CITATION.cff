@@ -1,7 +1,7 @@
 # YAML 1.2
 ---
 cff-version: 1.2.0
-title: PROJEKT
+title: PROJEKT_TEMPLATE
 message: If you use this software, please cite both the proceedings from preferred-citation and the software itself.
 type: dataset
 authors:
@@ -10,10 +10,18 @@ authors:
     email: jd@university.ac
     orcid: https://orcid.org/0000-0000-0000-0000
     affiliation: University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.ZENODO_COLLECTION
+    description: 'Collection of archived snapshots of all versions'
+  - type: doi
+    value: 10.5281/zenodo.DOI
+    description: Current version
 repository: https://github.com/railtoolkit/PROJEKT
 url: https://www.railtoolkit.org/projects/PROJEKT
 license: ISC
-version: v0.1.0
+version: 0.1.0
+date-released: 2023-03-02
 preferred-citation:
   authors:
     - given-names: John
